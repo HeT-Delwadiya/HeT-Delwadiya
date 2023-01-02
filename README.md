@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HeT-Delwadiya
+- 👋 Hi, I’m Het Delwadiya
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Web Development projects
